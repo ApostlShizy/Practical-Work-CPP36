@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pick">
+        <file>Sorce/GREEN.png</file>
+        <file>Sorce/RED.png</file>
+        <file>Sorce/YELLOW.png</file>
+    </qresource>
+</RCC>
